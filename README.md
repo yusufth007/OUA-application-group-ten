@@ -28,10 +28,11 @@ https://trello.com/invite/b/4jzaltqa/ATTI88abc3e6604a56045943a707453639dfD0F6722
 - Etkinliklere kolayca katılmak ve iletişim kurmak isteyenler
 
 <details>
-  
+
   <summary style="font-size: 20px;">Sprint 1 Details</summary>
 
   <h1>Sprint 1</h1>
+  
   
 
   <details>
@@ -43,8 +44,9 @@ https://trello.com/invite/b/4jzaltqa/ATTI88abc3e6604a56045943a707453639dfD0F6722
   </details>
 
 
-  - Sprint Notes
-  - Sprint içinde tamamlanması tahmin edilen puan
+  - Sprint Notes:
+    - Ekibimiz tanışmış ve çalışmaya başlamıştır. Yapılan 3-4 toplantı sonucu uygulama fikrine karar verilmiş ve sprint boyunca yeni fikirrler geliştirilmiştir.Trello sayfası kurularak görev dağılımı yapılmıştır. Login ve Sign Up sayfalarının UI tasarımları figmada yapılmış ve flutter'a da aktarılmıştır.
+  - Sprint içinde tamamlanması tahmin edilen puan: 200 puan 
   - Puan Tamamlama Mantığı
   - Daily Scrum
   - Sprint Board Ekran Görüntüleri
