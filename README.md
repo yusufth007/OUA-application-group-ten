@@ -1,8 +1,8 @@
-# davetioapp
+# Takım İsmi
 
-A new Flutter project.
+Grup 10
 
-## Getting Started
+## Takım Üyeleri
 
 This project is a starting point for a Flutter application.
 
