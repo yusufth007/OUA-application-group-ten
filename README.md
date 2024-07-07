@@ -57,7 +57,7 @@ https://trello.com/invite/b/4jzaltqa/ATTI88abc3e6604a56045943a707453639dfD0F6722
   - Sprint içinde tamamlanması tahmin edilen puan: 200 puan 
   - Puan Tamamlama Mantığı:
     - Toplamda proje boyunca tamamlanması gereken backlog puanı 200 olarak belirlenmiştir. Geç toplandığımız için ilk sprinti 50 Diğer 2 Sprinti ise 75er puan olarak düşündük.
-  - Daily Scrum
+  - Daily Scrum: https://drive.google.com/drive/folders/1DlQ4lR8WlsumHNqshH5eU3ItnMilqOSe?usp=drive_link
   - Sprint Review:
     - Yapılacak fikre karar verildi. 
     - Görev takibi için hangi uygulamayı kullanıcağımıza karar verdik.
