@@ -41,6 +41,7 @@ https://trello.com/invite/b/4jzaltqa/ATTI88abc3e6604a56045943a707453639dfD0F6722
 
   <details>
     <summary style="font-size: 32px;">App Screenshots</summary>
+    ![Proje Logo](https://raw.githubusercontent.com/kullanıcıAdı/depoAdı/ana/klasörAdı/resimAdı.png)
   </details>
 
   <details>
