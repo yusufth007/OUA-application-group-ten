@@ -64,5 +64,7 @@ https://trello.com/invite/b/4jzaltqa/ATTI88abc3e6604a56045943a707453639dfD0F6722
     - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
     - UI tasarımları ile Flutter kısmının eş zamanlı gidilmesine karar verilmiştir.
     - Gelecek Sprintte Firebase ile Veritabanına bağlanma işinin yapılmaya başlanmasına kararı verilmiştir.
+   
+    - ![Resim Adı](https://github.com/yusufth007/OUA-application-group-ten/blob/master/SignIn.png)
   
 </details>
