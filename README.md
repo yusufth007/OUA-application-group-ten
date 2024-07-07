@@ -41,7 +41,9 @@ https://trello.com/invite/b/4jzaltqa/ATTI88abc3e6604a56045943a707453639dfD0F6722
 
   <details>
     <summary style="font-size: 32px;">App Screenshots</summary>
-    <img src="https://github.com/yusufth007/OUA-application-group-ten/blob/master/SignIn.png" alt="alt text" width="320" height="320">
+    <img src="https://github.com/yusufth007/OUA-application-group-ten/blob/master/SignIn.png" alt="alt text" width="450" height="800">
+    <img src="https://github.com/yusufth007/OUA-application-group-ten/blob/master/SignUp.png" alt="alt text" width="450" height="800">
+
   </details>
 
   <details>
