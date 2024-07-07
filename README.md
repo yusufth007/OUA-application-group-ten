@@ -4,11 +4,7 @@ Grup 10
 
 ## Takım Üyeleri
 
-Ege Kula - Scrum Master,Developer
-Ömer İlbilgi - Developer, UI/UX Designer
-Çiğse Ezgi - Developer, Product Owner
-Emre Yiğit Öztürk - Developer
-Yusuf Taha - Developer
+[PDF Dosyasını Görüntüle](https://github.com/yusufth007/OUA-application-group-ten/blob/master/NAME.pdf)
 
 ## Ürün İsmi
 
