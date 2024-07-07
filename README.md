@@ -27,8 +27,11 @@ Tanım
 Tanım
 
 <details>
-  <summary style="font-size: 20px;">Sprint 1</summary>
-  
+  <summary style="font-size: 48px;">Sprint 1</summary>
+
+  <details>
+    <summary style="font-size: 32px;">App Screenshots</summary>
+  </details>
   Bu içerik, açıldığında görüntülenecek.
 
   - Madde 1
