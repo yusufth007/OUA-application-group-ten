@@ -28,7 +28,9 @@ https://trello.com/invite/b/4jzaltqa/ATTI88abc3e6604a56045943a707453639dfD0F6722
 - Etkinliklere kolayca katılmak ve iletişim kurmak isteyenler
 
 <details>
-  ### Sprint 1
+
+  <h1>Sprint 1</h1>
+  
 
   <details>
     <summary style="font-size: 32px;">App Screenshots</summary>
