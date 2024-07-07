@@ -48,7 +48,7 @@ https://trello.com/invite/b/4jzaltqa/ATTI88abc3e6604a56045943a707453639dfD0F6722
 
   <details>
     <summary style="font-size: 32px;">Sprint Board Update Screenshots</summary>
-    <img src="https://github.com/yusufth007/OUA-application-group-ten/blob/master/trello1.png" alt="alt text" width="450" height="800">
+    <img src="https://github.com/yusufth007/OUA-application-group-ten/blob/master/trello1.png" alt="alt text" width="960" height="540">
   </details>
 
 
