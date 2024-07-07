@@ -32,11 +32,19 @@ Tanım
   <details>
     <summary style="font-size: 32px;">App Screenshots</summary>
   </details>
-  Bu içerik, açıldığında görüntülenecek.
 
-  - Madde 1
-  - Madde 2
-  - Madde 3
+  <details>
+    <summary style="font-size: 32px;">Sprint Board Update Screenshots</summary>
+  </details>
+
+
+  - Sprint Notes
+  - Sprint içinde tamamlanması tahmin edilen puan
+  - Puan Tamamlama Mantığı
+  - Daily Scrum
+  - Sprint Board Ekran Görüntüleri
+  - Sprint Review
+  - Sprint Retrospective
 
 </details>
 
