@@ -27,7 +27,7 @@ Tanım
 Tanım
 
 <details>
-  <summary>Sprint 1</summary>
+  <summary style="font-size: 20px;">Sprint 1</summary>
   
   Bu içerik, açıldığında görüntülenecek.
 
