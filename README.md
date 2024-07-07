@@ -6,7 +6,39 @@ Grup 10
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Ürün İsmi
+
+Davetio
+
+## Ürün İle İlgili Bilgiler
+
+Tanım
+
+## Trello panomuz
+
+https://trello.com/invite/b/4jzaltqa/ATTI88abc3e6604a56045943a707453639dfD0F6722F/sprint1
+
+## Hedef Kitle
+
+Tanım
+
+## Ürün Özellikleri
+
+Tanım
+
+## Sprint 1
+
+<details>
+  <summary>Buraya tıklayın</summary>
+  
+  Bu içerik, açıldığında görüntülenecek.
+
+  - Madde 1
+  - Madde 2
+  - Madde 3
+
+</details>
+
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
