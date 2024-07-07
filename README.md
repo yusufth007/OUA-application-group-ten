@@ -12,7 +12,7 @@ Davetio
 
 ## Ürün İle İlgili Bilgiler
 
-Tanım
+Davetio, kullanıcıların spor ve oyun etkinlikleri bulmalarını, yeni insanlarla tanışmalarını ve eğlenmelerini sağlayan bir mobil uygulamadır. Kullanıcılar profiller oluşturabilir, tercihlerini belirleyebilir, etkinlik oluşturabilir ve mevcut etkinliklere katılabilir, eksik oyuncu bulabilir veya aranabilir, konumlarına göre etkinlik arayabilir, anlık bildirimler alabilir, sohbet edebilir, değerlendirme yapabilir ve yorum bırakabilir, takvimlerine entegrasyon sağlayabilir, rozetler kazanabilir, arkadaşlarını davet edebilir, grup oluşturabilir ve daha fazlasını yapabilir.
 
 ## Trello panomuz
 
@@ -20,11 +20,12 @@ https://trello.com/invite/b/4jzaltqa/ATTI88abc3e6604a56045943a707453639dfD0F6722
 
 ## Hedef Kitle
 
-Tanım
-
-## Ürün Özellikleri
-
-Tanım
+- Spor ve oyunlara ilgi duyanlar
+- Yeni insanlarla tanışmak ve sosyalleşmek isteyenler
+- Takım halinde spor yapmak ve eğlenmek isteyenler
+- Eksik oyuncu arayan veya aranmak isteyenler
+- Bulundukları konumdaki spor ve oyun etkinliklerinden haberdar olmak isteyenler
+- Etkinliklere kolayca katılmak ve iletişim kurmak isteyenler
 
 <details>
   <summary style="font-size: 48px;">Sprint 1</summary>
@@ -47,11 +48,3 @@ Tanım
   - Sprint Retrospective
 
 </details>
-
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
