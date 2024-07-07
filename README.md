@@ -28,6 +28,8 @@ https://trello.com/invite/b/4jzaltqa/ATTI88abc3e6604a56045943a707453639dfD0F6722
 - Etkinliklere kolayca katılmak ve iletişim kurmak isteyenler
 
 <details>
+  
+  <summary style="font-size: 20px;">Sprint 1 Details</summary>
 
   <h1>Sprint 1</h1>
   
