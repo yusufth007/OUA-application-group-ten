@@ -26,10 +26,8 @@ Tanım
 
 Tanım
 
-## Sprint 1
-
 <details>
-  <summary>Buraya tıklayın</summary>
+  <summary>Sprint 1</summary>
   
   Bu içerik, açıldığında görüntülenecek.
 
