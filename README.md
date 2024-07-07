@@ -28,7 +28,7 @@ https://trello.com/invite/b/4jzaltqa/ATTI88abc3e6604a56045943a707453639dfD0F6722
 - Etkinliklere kolayca katılmak ve iletişim kurmak isteyenler
 
 <details>
-  <summary style="font-size: 48px;">Sprint 1</summary>
+  <summary style="font-size: 90px;">Sprint 1</summary>
 
   <details>
     <summary style="font-size: 32px;">App Screenshots</summary>
@@ -47,22 +47,5 @@ https://trello.com/invite/b/4jzaltqa/ATTI88abc3e6604a56045943a707453639dfD0F6722
   - Sprint Review
   - Sprint Retrospective
 
-  ### Özellikler:
-
-* Basit ve anlaşılır kod
-* Hızlı ve verimli
-* Çalıştırması kolay
-* Yeni başlayanlar için ideal
-
-### Kullanım Durumları:
-
-* Python programlama öğrenmek
-* Komut satırı arayüzleriyle tanışmak
-* Temel programlama kavramlarını uygulamak
-
-### Kurulum:
-
-1. Adım: Depoyu klonlayın.
-2. Adım: Gerekli bağımlılıkları yükleyin.
-3. Adım: Uygulamayı çalıştırın.
+  
 </details>
