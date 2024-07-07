@@ -4,7 +4,11 @@ Grup 10
 
 ## Takım Üyeleri
 
-This project is a starting point for a Flutter application.
+Ege Kula - Scrum Master,Developer
+Ömer İlbilgi - Developer, UI/UX Designer
+Çiğse Ezgi - Developer, Product Owner
+Emre Yiğit Öztürk - Developer
+Yusuf Taha - Developer
 
 ## Ürün İsmi
 
@@ -45,13 +49,19 @@ https://trello.com/invite/b/4jzaltqa/ATTI88abc3e6604a56045943a707453639dfD0F6722
 
 
   - Sprint Notes:
-    - Ekibimiz tanışmış ve çalışmaya başlamıştır. Yapılan 3-4 toplantı sonucu uygulama fikrine karar verilmiş ve sprint boyunca yeni fikirrler geliştirilmiştir.Trello sayfası kurularak görev dağılımı yapılmıştır. Login ve Sign Up sayfalarının UI tasarımları figmada yapılmış ve flutter'a da aktarılmıştır.
+    - Ekibimiz takım değişimlerinden sonra geçte olsa tanışmış ve çalışmaya başlamıştır. Yapılan 3-4 toplantı sonucu uygulama fikrine karar verilmiş ve sprint boyunca yeni fikirler geliştirilmiştir.Trello sayfası kurularak görev dağılımı yapılmıştır. Login ve Sign Up sayfalarının UI tasarımları figmada yapılmış ve flutter'a da aktarılmıştır.
   - Sprint içinde tamamlanması tahmin edilen puan: 200 puan 
   - Puan Tamamlama Mantığı
   - Daily Scrum
-  - Sprint Board Ekran Görüntüleri
-  - Sprint Review
-  - Sprint Retrospective
-
+  - Sprint Review:
+    - Yapılacak fikre karar verildi. 
+    - Görev takibi için hangi uygulamayı kullanıcağımıza karar verdik.
+    - Görev dağılımları yapıldı
+    - Figma'dan Login ve Sign Up sayfalarının tasarımları yapıldı.
+    - Yapılan Tasarımlar Flutter'a aktarılmaya başlandı.
+  - Sprint Retrospective:
+    - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
+    - UI tasarımları ile Flutter kısmının eş zamanlı gidilmesine karar verilmiştir.
+    - Gelecek Sprintte Firebase ile Veritabanına bağlanma işinin yapılmaya başlanmasına kararı verilmiştir.
   
 </details>
