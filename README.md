@@ -79,7 +79,7 @@ https://trello.com/invite/b/4jzaltqa/ATTI88abc3e6604a56045943a707453639dfD0F6722
 
   <details>
     <summary style="font-size: 32px;">App Screenshots</summary>
-    <img src="https://github.com/yusufth007/OUA-application-group-ten/blob/master/SignIn.png](https://github.com/yusufth007/OUA-application-group-ten/blob/master/WhatsApp%20Image%202024-07-17%20at%2009.22.28.jpeg" alt="alt text" width="450" height="800">
+    <img src="https://github.com/yusufth007/OUA-application-group-ten/blob/master/WhatsApp Image 2024-07-17 at 09.22.28.jpeg" alt="alt text" width="450" height="800">
     
 
   </details>
