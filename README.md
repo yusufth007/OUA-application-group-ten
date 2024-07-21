@@ -91,21 +91,17 @@ https://trello.com/invite/b/4jzaltqa/ATTI88abc3e6604a56045943a707453639dfD0F6722
 
 
   - Sprint Notes:
-    - Ekibimiz takım değişimlerinden sonra geçte olsa tanışmış ve çalışmaya başlamıştır. Yapılan 3-4 toplantı sonucu uygulama fikrine karar verilmiş ve sprint boyunca yeni fikirler geliştirilmiştir.Trello sayfası kurularak görev dağılımı yapılmıştır. Login ve Sign Up sayfalarının UI tasarımları figmada yapılmış ve flutter'a da aktarılmıştır.
-  - Sprint içinde tamamlanması tahmin edilen puan: 200 puan 
+    - Ekip bu sprintte bir araya gelememiştir.
+  - Sprint içinde tamamlanması tahmin edilen puan: 75 puan 
   - Puan Tamamlama Mantığı:
     - Toplamda proje boyunca tamamlanması gereken backlog puanı 200 olarak belirlenmiştir. Geç toplandığımız için ilk sprinti 50 Diğer 2 Sprinti ise 75er puan olarak düşündük.
   - Daily Scrum: https://drive.google.com/drive/folders/1DlQ4lR8WlsumHNqshH5eU3ItnMilqOSe?usp=drive_link
   - Sprint Review:
-    - Yapılacak fikre karar verildi. 
-    - Görev takibi için hangi uygulamayı kullanıcağımıza karar verdik.
-    - Görev dağılımları yapıldı
-    - Figma'dan Login ve Sign Up sayfalarının tasarımları yapıldı.
-    - Yapılan Tasarımlar Flutter'a aktarılmaya başlandı.
+    - UI Tasarımları yapıldı.
+    - Trello görev dağılımı güncellendi.
   - Sprint Retrospective:
     - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
-    - UI tasarımları ile Flutter kısmının eş zamanlı gidilmesine karar verilmiştir.
-    - Gelecek Sprintte Firebase ile Veritabanına bağlanma işinin yapılmaya başlanmasına kararı verilmiştir.
+  
    
     
   
