@@ -59,10 +59,7 @@ flutter:
   # the material Icons class.
   uses-material-design: true
 
-  fonts:
-    - family: SFPRO
-      fonts:
-        - asset: fonts/SFPRODISPLAYREGULAR.OTF
+
 
   # To add assets to your application, add an assets section, like this:
   # assets:
