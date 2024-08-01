@@ -117,10 +117,10 @@ https://trello.com/invite/b/4jzaltqa/ATTI88abc3e6604a56045943a707453639dfD0F6722
 
   <details>
     <summary style="font-size: 32px;">App Screenshots</summary>
-    <img src="https://github.com/yusufth007/OUA-application-group-ten/blob/master/Screenshot_20240801_195413.png" alt="alt text" width="960" height="540">
-    <img src="https://github.com/yusufth007/OUA-application-group-ten/blob/master/Screenshot_20240801_195440.png" alt="alt text" width="960" height="540">
-    <img src="https://github.com/yusufth007/OUA-application-group-ten/blob/master/Screenshot_20240801_195446.png" alt="alt text" width="960" height="540">
-    <img src="https://github.com/yusufth007/OUA-application-group-ten/blob/master/Screenshot_20240801_195507.png" alt="alt text" width="960" height="540">
+    <img src="https://github.com/yusufth007/OUA-application-group-ten/blob/master/Screenshot_20240801_195413.png" alt="alt text" width="450" height="800">
+    <img src="https://github.com/yusufth007/OUA-application-group-ten/blob/master/Screenshot_20240801_195440.png" alt="alt text" width="450" height="800">
+    <img src="https://github.com/yusufth007/OUA-application-group-ten/blob/master/Screenshot_20240801_195446.png" alt="alt text" width="450" height="800">
+    <img src="https://github.com/yusufth007/OUA-application-group-ten/blob/master/Screenshot_20240801_195507.png" alt="alt text" width="450" height="800">
 
     
 
