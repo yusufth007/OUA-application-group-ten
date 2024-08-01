@@ -8,11 +8,11 @@ Grup 10
 
 ## Ürün İsmi
 
-Davetio
+Hesap Makinesi
 
 ## Ürün İle İlgili Bilgiler
 
-Davetio, kullanıcıların spor ve oyun etkinlikleri bulmalarını, yeni insanlarla tanışmalarını ve eğlenmelerini sağlayan bir mobil uygulamadır. Kullanıcılar profiller oluşturabilir, tercihlerini belirleyebilir, etkinlik oluşturabilir ve mevcut etkinliklere katılabilir, eksik oyuncu bulabilir veya aranabilir, konumlarına göre etkinlik arayabilir, anlık bildirimler alabilir, sohbet edebilir, değerlendirme yapabilir ve yorum bırakabilir, takvimlerine entegrasyon sağlayabilir, rozetler kazanabilir, arkadaşlarını davet edebilir, grup oluşturabilir ve daha fazlasını yapabilir.
+Hesap Makinesi
 
 ## Trello panomuz
 
@@ -20,12 +20,7 @@ https://trello.com/invite/b/4jzaltqa/ATTI88abc3e6604a56045943a707453639dfD0F6722
 
 ## Hedef Kitle
 
-- Spor ve oyunlara ilgi duyanlar
-- Yeni insanlarla tanışmak ve sosyalleşmek isteyenler
-- Takım halinde spor yapmak ve eğlenmek isteyenler
-- Eksik oyuncu arayan veya aranmak isteyenler
-- Bulundukları konumdaki spor ve oyun etkinliklerinden haberdar olmak isteyenler
-- Etkinliklere kolayca katılmak ve iletişim kurmak isteyenler
+-Matematikle ilgili kişiler.
 
 <details>
 
@@ -133,16 +128,15 @@ https://trello.com/invite/b/4jzaltqa/ATTI88abc3e6604a56045943a707453639dfD0F6722
 
 
   - Sprint Notes:
-    - Ekip bu sprintte bir araya gelememiştir.
+    - Ekip bu sprintte bir araya gelememiştir. O yüzden basit bir hesap makinesi yapılmıştır
   - Sprint içinde tamamlanması tahmin edilen puan: 75 puan 
   - Puan Tamamlama Mantığı:
     - Toplamda proje boyunca tamamlanması gereken backlog puanı 200 olarak belirlenmiştir. Geç toplandığımız için ilk sprinti 50 Diğer 2 Sprinti ise 75er puan olarak düşündük.
   - Daily Scrum: https://drive.google.com/drive/folders/1DlQ4lR8WlsumHNqshH5eU3ItnMilqOSe?usp=drive_link
   - Sprint Review:
-    - UI Tasarımları yapıldı.
-    - Trello görev dağılımı güncellendi.
+    - Proje Basit Hesap Makinesine Çevrildi
   - Sprint Retrospective:
-    - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
+    - .
   
    
     
